@@ -1,0 +1,23 @@
+html {
+  scroll-behavior: smooth;
+}
+#Portfolio{
+    font-family: 'Poppins'
+}
+
+.nav-item:hover{
+    background-color: #cfcfcf;
+}
+#title{
+    padding-left: 10px;
+}
+#home{
+    margin-left: 100px;
+}
+
+.color{
+    background-color: #6f5fdb ;
+}
+#htmlresume,#cssdesign,#tindog{
+    filter:blur(10px)
+}
